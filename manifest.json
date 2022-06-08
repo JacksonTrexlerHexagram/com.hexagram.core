@@ -1,0 +1,6 @@
+{
+    "name": "com.hexagram.dependency",
+    "displayName": "Hexagram Unity Test Package",
+    "version": "1.0.0",
+    "unity": "2020.3.33f1",
+}
