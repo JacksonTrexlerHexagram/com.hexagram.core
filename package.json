@@ -2,9 +2,14 @@
     "name": "com.hexagram.dependency",
     "displayName": "Hexagram Unity Test Package",
     "version": "1.0.0",
+<<<<<<< HEAD
     "unity": "2020.3",
     "unityRelease": "30f1",
     "author": {
         "name": "Hexagram"
     }
 }
+=======
+    "unity": "2020.3.33f1"
+}
+>>>>>>> 50ed38462d399b589e136e1e9576e514ec8727f6
